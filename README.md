@@ -42,3 +42,23 @@ This project implements a 32-bit Arithmetic Logic Unit (ALU) using Verilog HDL. 
 - FPGA Systems
 - Digital Logic Design
 - RISC Architectures
+
+## Simulation Results
+
+### AND Operation
+![AND](and_alu.PNG)
+
+### OR Operation
+![OR](or_alu.PNG)
+
+### NOT Operation
+![NOT](not_alu.PNG)
+
+### SUB Operation
+![SUB](sub_alu.PNG)
+
+### MUL Operation
+![MUL](mul_alu.PNG)
+
+### DIV Operation
+![DIV](div_alu.PNG)
